@@ -2,7 +2,7 @@
 
 <br>
 
-🎓 **Computer Science Undergraduate (4th Term)** at the Federal University of Goiás **(UFG)**.
+🎓 **Computer Science Undergraduate (4th Semester)** at the Federal University of Goiás **(UFG)**.
 
 I am driven by a curiosity to understand how things truly work; I want to master the fundamentals and deeply understand the machine. My goal is to absorb as much knowledge as possible, exploring everything from **systems programming** to the latest innovations in **Artificial Intelligence**.
 
