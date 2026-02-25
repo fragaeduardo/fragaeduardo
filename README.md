@@ -2,11 +2,11 @@
 
 <br>
 
-🎓 **Computer Science Undergraduate (4th Semester)** at the Federal University of Goiás **(UFG)**.
+🎓 **Computer Science Undergraduate (4th Semester)** at the Federal University of Goiás (**UFG**).
 
-I am driven by a curiosity to understand how things truly work; I want to master the fundamentals and deeply understand the machine. My goal is to absorb as much knowledge as possible, exploring everything from **systems programming** to the latest innovations in **Artificial Intelligence**.
+With a focus on building a strong technical foundation, my goal is to absorb as much knowledge as possible, exploring everything from **systems programming** to the latest innovations in **Artificial Intelligence**, always seeking the best and most efficient solution for every type of challenge.
 
-Currently, I serve as a **Student Tutor** for the **Introduction to Programming (C)** course, where I have the opportunity to solidify my own foundations while helping new students develop their logical reasoning skills.
+Currently, I'm a **Student Tutor** for **Introduction to Programming (C)**, helping students strengthen their logic while I solidify my own foundations in algorithm development and data structures.
 
 ---
 
@@ -44,7 +44,17 @@ Currently, I serve as a **Student Tutor** for the **Introduction to Programming 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
 
-**Tools & Others**
+**Technologies (AI, DB & Infra)**
+<br>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+<img src="https://img.shields.io/badge/Qdrant-FF4D4D?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant" />
+<img src="https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logo=crewai&logoColor=white" alt="CrewAI" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangGraph" />
+
+**Tools & Environment**
 <br>
 <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -56,15 +66,6 @@ Currently, I serve as a **Student Tutor** for the **Introduction to Programming 
 <br>
 <img src="https://img.shields.io/badge/Portuguese-Native-green?style=flat-square" />
 <img src="https://img.shields.io/badge/English-Fluent-blue?style=flat-square" />
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=fragaeduardo&show_icons=true&hide_border=true&bg_color=ffffff&title_color=00599C&icon_color=00599C&text_color=333333&theme=transparent" alt="Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fragaeduardo&layout=compact&hide_border=true&bg_color=ffffff&title_color=00599C&text_color=333333&theme=transparent" alt="Top Langs" />
-</div>
 
 ---
 
